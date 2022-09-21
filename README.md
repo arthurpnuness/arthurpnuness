@@ -2,7 +2,7 @@
 
 
 ## 🚀 About me
-I'm a full-stack development student at GrowDev... I like back-end, football, basketball, games and being good with myself!
+<i>I'm a full-stack development student at GrowDev... I like backend languages. What I like to do in my spare time is basically watching football, basketball, games and being good with myself!</i>
 
 
 ## 🔗 Link
@@ -17,8 +17,6 @@ I'm a full-stack development student at GrowDev... I like back-end, football, ba
 🧠 I'm learning Programming.
 
 👯‍♀️ I try to collaborate in my family and be a reference for other people.
-
-💬 Ask me what I like to do in my spare time.
 
 ⚡️ Funny facts only in chat.
 
