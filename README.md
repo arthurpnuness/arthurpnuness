@@ -1,4 +1,4 @@
-#  Welcome to my profile. Hi, I'm Arthur! Nice to meet you.👋
+#  Hi, I'm Arthur! Welcome to my profile. Nice to meet you.👋
 
 
 ## 🚀 <u>About me</u>
