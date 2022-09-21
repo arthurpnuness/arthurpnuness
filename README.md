@@ -1,8 +1,8 @@
-#  Hi, I'm Arthur! Welcome to my profile. Nice to meet you.👋
+#  Hi, I'm Arthur! Welcome to my profile.  Nice to meet you.👋
 
 
 ## 🚀 <u>About me</u>
-<em>I'm a full-stack development student at GrowDev... I like backend languages. What I like to do in my spare time is basically watching football, basketball, play video game and being good with myself is an important point for my productivity and I end up practicing this during my free time</em>
+<em>I'm a full-stack development student at GrowDev... I like backend languages. What I like to do in my spare time is basically watching football, basketball, play video game and and being good with myself is an important point for my productivity and I end up practicing this during my free time</em>
 
 
 ## <u>Other things about me</u>
@@ -16,5 +16,5 @@
 
 
 ## 🛠 <u>Skills</u>
-<a href="https://www.linkedin.com/in/arthurpnuness23/details/certifications/">Certificados</a>
+<a href="https://www.linkedin.com/in/arthurpnuness23/details/certifications/" target="_blank">Certificados</a>
 
