@@ -2,7 +2,7 @@
 
 
 ## 🚀 <u>About me</u>
-<em>I'm a full-stack development student at GrowDev... I like backend languages. What I like to do in my spare time is basically watching football, basketball, play video game and and being good with myself is an important point for my productivity and I end up practicing this during my free time</em>
+<em>I'm a full-stack development student at GrowDev... I like backend languages. What I like to do in my spare time is basically watching football, basketball, play video game and being good with myself is an important point for my productivity and I end up practicing this during my free time</em>
 
 
 ## <u>Other things about me</u>
