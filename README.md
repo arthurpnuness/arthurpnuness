@@ -6,7 +6,7 @@
 
 
 ## <u>Other things about me</u>
-👩‍💻 I currently work at Terra Imóveis e Seguros as a social media manager. I already served in the Brazilian Air Force for 4 years and right after leaving was when I started where I work today.
+👩‍💻 I currently work at Terra AgroNegócios. I already served in the Brazilian Air Force for 4 years and right after leaving was when I started where I work today.
 
 🧠 I'm learning Programming.
 
