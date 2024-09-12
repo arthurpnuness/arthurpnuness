@@ -16,5 +16,5 @@
 
 
 ## 🛠 <u>Skills</u>
-<a href="https://www.linkedin.com/in/arthurpnuness/details/certifications/">Certificados</a>
+<a href="https://www.linkedin.com/in/arthurpnuness/details/certifications/" target="_blank">Certificados</a>
 
